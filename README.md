@@ -3,4 +3,6 @@ This ROS package provides a driver for integrating the Pepperl+Fuchs PCV100-F200
 
 ![Image](https://github.com/user-attachments/assets/67937f95-aff3-46e6-aa5f-c6cfba93596e)
 
+For detailed information about the PCV100-F200-R4-V19-6011 optical reading head, please refer to the official Pepperl+Fuchs product page.
+
 https://www.pepperl-fuchs.com/india/hi/classid_2614.htm?view=productdetails&prodid=59476
