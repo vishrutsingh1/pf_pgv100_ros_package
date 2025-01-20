@@ -16,5 +16,5 @@ This driver is intended for developers and engineers looking to integrate the PC
 
 For detailed information about the PCV100-F200-R4-V19 optical reading head, please refer to the official Pepperl+Fuchs product page.
 
-https://www.pepperl-fuchs.com/india/hi/classid_2614.htm?view=productdetails&prodid=59476
+**https://www.pepperl-fuchs.com/india/hi/classid_3334.htm?view=productdetails&prodid=91962**
 
